@@ -1,0 +1,12 @@
+This is the Introduction Lab.
+It contains:
+  1. Writing hello-world program in C++.
+  2. Creating a program that asks for the radius of a circle and prints the area of that circle.
+  3. Writing a program that reads in a positive integer and outputs "ODD" if the integer is odd and "EVEN" if the integer is even.
+  4. Modifying the previous program so that it keeps reading positive integers and classifying them as ODD or EVEN until the user inputs -1.
+  5. Creating a program that takes in the sentence to be written out, and the number of times it needs to be repeated, and produce the desired output.
+  6. Creating a program that opens a file named words.txt and counts the whitespace-separated words in that file.
+  7. Creating a program that reads in a word from the user and counts the number of occurrences of that word in a file called words.txt.
+  8. Writing a simple run-length encoder.
+  9. Writing a program that prints out the prime numbers.
+10. Wrting a program that reads strings of different sizes.
